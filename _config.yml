@@ -2,12 +2,15 @@
 title: Fred Pan
 email: fredpan@usc.edu
 description: > # keep this and put description below
-  *Game Programmer and Designer
-  *USC Computer Science Games Major
-  *Developed several video games independently
-  *Worked on a collaborative puzzle-solving board game in a 5-person team
+  Game Programmer and Designer
+  
+  USC Computer Science Games Major
+  
+  Developed several video games independently
+  
+  Worked on a collaborative puzzle-solving board game in a 5-person team
 url: "https://fluffyfred.github.io" # the base hostname & protocol for your site
-linkedin_url: "www.linkedin.com/in/fredyizhoupan"
+linkedin_url: www.linkedin.com/in/fredyizhoupan
 github_username: fluffyfred
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
