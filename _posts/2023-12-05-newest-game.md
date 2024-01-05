@@ -2,7 +2,7 @@
 layout: post
 title:  "Portal"
 summary: "Lead Programmer and Designer"
-date:   2023-10 to 2023-12
+date:   2023-12-05
 preview: /assets/portalreview.png
 ---
 
